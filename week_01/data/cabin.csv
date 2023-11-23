@@ -1,0 +1,205 @@
+PassengerId,Survived,Pclass,Sex,Cabin
+2,1,1,female,C85
+4,1,1,female,C123
+7,0,1,male,E46
+11,1,3,female,G6
+12,1,1,female,C103
+22,1,2,male,D56
+24,1,1,male,A6
+28,0,1,male,C23 C25 C27
+32,1,1,female,B78
+53,1,1,female,D33
+55,0,1,male,B30
+56,1,1,male,C52
+62,1,1,female,B28
+63,0,1,male,C83
+67,1,2,female,F33
+76,0,3,male,F G73
+89,1,1,female,C23 C25 C27
+93,0,1,male,E31
+97,0,1,male,A5
+98,1,1,male,D10 D12
+103,0,1,male,D26
+111,0,1,male,C110
+119,0,1,male,B58 B60
+124,1,2,female,E101
+125,0,1,male,D26
+129,1,3,female,F E69
+137,1,1,female,D47
+138,0,1,male,C123
+140,0,1,male,B86
+149,0,2,male,F2
+152,1,1,female,C2
+167,1,1,female,E33
+171,0,1,male,B19
+175,0,1,male,A7
+178,0,1,female,C49
+184,1,2,male,F4
+186,0,1,male,A32
+194,1,2,male,F2
+195,1,1,female,B4
+196,1,1,female,B80
+206,0,3,female,G6
+210,1,1,male,A31
+216,1,1,female,D36
+219,1,1,female,D15
+225,1,1,male,C93
+231,1,1,female,C83
+246,0,1,male,C78
+249,1,1,male,D35
+252,0,3,female,G6
+253,0,1,male,C87
+258,1,1,female,B77
+263,0,1,male,E67
+264,0,1,male,B94
+269,1,1,female,C125
+270,1,1,female,C99
+274,0,1,male,C118
+276,1,1,female,D7
+285,0,1,male,A19
+292,1,1,female,B49
+293,0,2,male,D
+298,0,1,female,C22 C26
+299,1,1,male,C106
+300,1,1,female,B58 B60
+304,1,2,female,E101
+306,1,1,male,C22 C26
+308,1,1,female,C65
+310,1,1,female,E36
+311,1,1,female,C54
+312,1,1,female,B57 B59 B63 B66
+319,1,1,female,C7
+320,1,1,female,E34
+326,1,1,female,C32
+328,1,2,female,D
+330,1,1,female,B18
+332,0,1,male,C124
+333,0,1,male,C91
+337,0,1,male,C2
+338,1,1,female,E40
+340,0,1,male,T
+341,1,2,male,F2
+342,1,1,female,C23 C25 C27
+346,1,2,female,F33
+352,0,1,male,C128
+357,1,1,female,E33
+367,1,1,female,D37
+370,1,1,female,B35
+371,1,1,male,E50
+378,0,1,male,C82
+391,1,1,male,B96 B98
+394,1,1,female,D36
+395,1,3,female,G6
+413,1,1,female,C78
+430,1,3,male,E10
+431,1,1,male,C52
+435,0,1,male,E44
+436,1,1,female,B96 B98
+439,0,1,male,C23 C25 C27
+446,1,1,male,A34
+450,1,1,male,C104
+453,0,1,male,C111
+454,1,1,male,C92
+457,0,1,male,E38
+458,1,1,female,D21
+461,1,1,male,E12
+463,0,1,male,E63
+474,1,2,female,D
+476,0,1,male,A14
+485,1,1,male,B49
+487,1,1,female,C93
+488,0,1,male,B37
+493,0,1,male,C30
+497,1,1,female,D20
+499,0,1,female,C22 C26
+505,1,1,female,B79
+506,0,1,male,C65
+513,1,1,male,E25
+516,0,1,male,D46
+517,1,2,female,F33
+521,1,1,female,B73
+524,1,1,female,B18
+528,0,1,male,C95
+537,0,1,male,B38
+540,1,1,female,B39
+541,1,1,female,B22
+545,0,1,male,C86
+551,1,1,male,C70
+557,1,1,female,A16
+559,1,1,female,E67
+572,1,1,female,C101
+573,1,1,male,E25
+578,1,1,female,E44
+582,1,1,female,C68
+584,0,1,male,A10
+586,1,1,female,E68
+588,1,1,male,B41
+592,1,1,female,D20
+600,1,1,male,A20
+610,1,1,female,C125
+619,1,2,female,F4
+622,1,1,male,D19
+626,0,1,male,D50
+628,1,1,female,D9
+631,1,1,male,A23
+633,1,1,male,B50
+642,1,1,female,B35
+646,1,1,male,D33
+648,1,1,male,A26
+660,0,1,male,D48
+663,0,1,male,E58
+670,1,1,female,C126
+672,0,1,male,B71
+680,1,1,male,B51 B53 B55
+682,1,1,male,D49
+690,1,1,female,B5
+691,1,1,male,B20
+699,0,1,male,C68
+700,0,3,male,F G63
+701,1,1,female,C62 C64
+702,1,1,male,E24
+708,1,1,male,E24
+711,1,1,female,C90
+712,0,1,male,C124
+713,1,1,male,C126
+716,0,3,male,F G73
+717,1,1,female,C45
+718,1,2,female,E101
+725,1,1,male,E8
+731,1,1,female,B5
+738,1,1,male,B101
+741,1,1,male,D45
+742,0,1,male,C46
+743,1,1,female,B57 B59 B63 B66
+746,0,1,male,B22
+749,0,1,male,D30
+752,1,3,male,E121
+760,1,1,female,B77
+764,1,1,female,B96 B98
+766,1,1,female,D11
+773,0,2,female,E77
+777,0,3,male,F38
+780,1,1,female,B3
+782,1,1,female,B20
+783,0,1,male,D6
+790,0,1,male,B82 B84
+797,1,1,female,D17
+803,1,1,male,B96 B98
+807,0,1,male,A36
+810,1,1,female,E8
+816,0,1,male,B102
+821,1,1,female,B69
+824,1,3,female,E121
+830,1,1,female,B28
+836,1,1,female,E49
+840,1,1,male,C47
+850,1,1,female,C92
+854,1,1,female,D28
+858,1,1,male,E17
+863,1,1,female,D17
+868,0,1,male,A24
+872,1,1,female,D35
+873,0,1,male,B51 B53 B55
+880,1,1,female,C50
+888,1,1,female,B42
+890,1,1,male,C148

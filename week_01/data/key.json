@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "firstpenguine-codingschool",
+  "private_key_id": "be0d8457c4e2feef226b57400179363b11581aa6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpcQX0AMi0xxVE\nxu1ED0ie8N8qhDiBKrBr4pdDac3S3u7eOC/xxF+ayu5NMyZ+XKIlancu38uy+EEK\ngu05hI23MLem2+2L1vEljPwaY6bgLbycsFQ16AOrspLVjhKpEICJwARhhUTkFwZ7\nfxJhXe+SQIXhKGIKHqBaV8qZYKbXGlI/ACDZ07g/IW8VY38HtXA9wAr1hzPxNInp\nTvjNryFmSP6DG88nDy2mvZQQSj7v4ZM01woYeqwzpcAUrY7ggh2QmeXCbQ6XaG/g\nmjaZoJQlpvKhShiE91wZEt7uaWykh88NqpeXa3FQQigxfAeeJNL5CS0yrEaztHxC\n16gWKxHLAgMBAAECggEAApy1x8jfTzzRIh9NocKj5Ey4VAfNIIik8Z+A+iQTwpAh\n70EUfs3/31Czkx3FFnudGvs6MnnMF8qQo3XYlw4Tv+LmDJIlZlt+ROLt3AZJ7fjR\nMzqGAdK9g78cA7jN/CyUnrWxcO4aCB4mwRlOEjwy06Ffrv9CtlSPNPVXhT0iiqcH\nI21LSXp5BjqgziCyIzKlGobdtlJPhO9IWQaemvFBazHBpwtENeIqxCCnc8QhG7mp\nG77wccPE7UTbjCdguD7LpSjNs++0vmuh2z8tYNicvjcTpsfoP9dgAOeGCdVtDXWI\n1Jg/HkZKUXoOQB6FJ+/iv4bl2qJBIig3POt1Oa1kuQKBgQDTlDKfwDTuCHaoM13S\nmEpT7n5fvxswcz6pTyc08T8WHK75Xu4mV9NcCtRptiBo/mjGBG2cfYvTeZ7nnONT\nNvvZoQD+jpASWog/pWVSKApbZ5ceI1EJxFqa3awpaWQA+nqjvi0MR5hnYZSvPz3x\nWePSDIVg5ZQsNajoDOdWfY0HdQKBgQDNBA1t0PXpCGLka+deluqndQSgsSMqHOGJ\nBdnRJd6C8EhNEV07DqcA6rDEjiDUi1VJKKEfuR2hphBvpkMg0JVpXQdpl1awh3GP\nMhOKfLzsmkvUsnNDsDzYz2lXgkkEkSferAooyH/dJI2djs5cQMfMSOuA6XzW53Kw\njhux2NHMPwKBgQCp9jSsi9R5Gqdm+sx1rgyXW9B8zaHjy9AcZg9SwjExbB1LCW05\ns/d/yttTiBCFB0nXOBttSJUYbmyuFiOu505tRp7r3k3x0HP+3LiFxNB9GLwWY7xn\noio+mbABHD5PYuc9vjml0aWl9odgN+dkiBcw1woWCpZ65SgoMKVtnzG5OQKBgA7T\n8DS1HFQSazSiKUXKHIaoDAGjTivJkvZaGfrqhkFqJ5CLZPbUhHeogch1jyJQQYbd\nDWpB9UavwBiTKd/Btky8kcCtVXPHGAuHT6qAgxmJv1pO3c9Te9MijTfrEGToKr4M\nK1/vwG+6KRPwNDSv6sN3srDMMl9Ith7W6GHgkKv5AoGAc3iMXPLXj0xbLCltcQ67\ndj6JlgOTqKxg9fcEKS0PoBTnvgx+gMCfh+1wyp3A3GiQn83M6nA0YTWi6HSZnvPb\nUvsE8IFbXKlx2dnueLzKc7Y/0MrgDvO5V+nCOztzcfnwdcsdY3sEqTJnSrRD8dFv\nArZcJaOIOEIfEZSwpZXoxks=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-admin@firstpenguine-codingschool.iam.gserviceaccount.com",
+  "client_id": "102055139446673915898",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-admin%40firstpenguine-codingschool.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

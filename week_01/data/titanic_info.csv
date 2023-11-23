@@ -1,0 +1,11 @@
+PassengerId,Pclass,Name,Sex
+1,3,"Braund, Mr. Owen Harris",male
+2,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female
+3,3,"Heikkinen, Miss. Laina",female
+4,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female
+5,3,"Allen, Mr. William Henry",male
+6,3,"Moran, Mr. James",male
+7,1,"McCarthy, Mr. Timothy J",male
+8,3,"Palsson, Master. Gosta Leonard",male
+9,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female
+10,2,"Nasser, Mrs. Nicholas (Adele Achem)",female
