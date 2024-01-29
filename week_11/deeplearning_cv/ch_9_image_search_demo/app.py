@@ -1,5 +1,5 @@
 import streamlit as st
-import pinecone
+ifrom pinecone import Pinecone
 from model import EmbeddingExtractor
 from PIL import Image
 
@@ -8,16 +8,13 @@ st.title("Shoes Image Search")
 
 @st.cache_resource
 def load_model():
-    return EmbeddingExtractor(weight_path="./data/resnet18_finetune_1.pth")
+    return EmbeddingExtractor(weight_path="./data/resnet18_finetune.pth")
 
 
 @st.cache_resource
 def init_pinecone_index():
-    pinecone.init(
-        api_key=st.secrets["PINECONE_KEY"],
-        environment=st.secrets["PINECONE_REGION"]
-    )
-    index = pinecone.Index("shoes-image-search")
+    pc = Pinecone(api_key=st.secrets["PINECONE_KEY"])
+    index = pc.Index("shoes")
     return index
 
 
@@ -35,7 +32,7 @@ def search(label, embedding, k=5):
         },
         include_metadata=True
     )
-    return [x["metadata"]["path"].replace("./shoes/", st.secrets["S3_URL"]) for x in result["matches"]]
+    return [x["metadata"]["image_path"].replace("./shoes/", st.secrets["S3_URL"]) for x in result["matches"]]
 
 
 uploaded_file = st.file_uploader(
